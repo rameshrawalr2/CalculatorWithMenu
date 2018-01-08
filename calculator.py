@@ -1,4 +1,4 @@
-#author: Awaken prominence
+#author: Ramesh Rawal
 #interpreter: Python3
 
 #program to create calculator
